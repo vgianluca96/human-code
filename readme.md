@@ -9,7 +9,7 @@
 
 - FINTANTO CHE NON (ho finito le foto)
    
-    - SE (foto mi piace AND è migliore di quello scelto in precedenza)
+    - SE (foto mi piace AND è migliore di quella scelta in precedenza)
         - La scelgo come migliore foto
     - ALTRIMENTI
         - Vado alla foto successiva
@@ -17,8 +17,7 @@
 - Seleziono la foto eletta come migliore
 - Passo alla sezione di modifica
 
-- Inizio a scorrere tutti i filtri dal primo
-- Parto dal primo filtro della lista
+- Inizio a scorrere tutti i filtri dal primo della lista
 - Lo scelgo temporaneamente come migliore
 
 - FINTANTO CHE NON (ho finito i filtri)
